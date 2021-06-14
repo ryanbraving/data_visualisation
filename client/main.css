@@ -1,0 +1,25 @@
+/* CSS declarations go here */
+
+#visjs{
+	height:500px;
+}
+.vis-label{
+	fill-opacity:0;
+}
+
+.vis-label:hover{
+	fill-opacity:1;
+}
+
+a {
+    color:black;
+}
+a:hover{
+	color:red;
+}
+
+/*.col-md-6{
+	margin-top: 10px;
+	border:3px solid red;
+}
+*/
